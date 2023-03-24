@@ -1,0 +1,11 @@
+D:\dotnet\KalkulatorSederhanaWinForm\bin\Release\KalkulatorSederhanaWinForm.exe.config
+D:\dotnet\KalkulatorSederhanaWinForm\bin\Release\KalkulatorSederhanaWinForm.exe
+D:\dotnet\KalkulatorSederhanaWinForm\bin\Release\KalkulatorSederhanaWinForm.pdb
+D:\dotnet\KalkulatorSederhanaWinForm\obj\Release\KalkulatorSederhanaWinForm.csproj.AssemblyReference.cache
+D:\dotnet\KalkulatorSederhanaWinForm\obj\Release\KalkulatorSederhanaWinForm.csproj.SuggestedBindingRedirects.cache
+D:\dotnet\KalkulatorSederhanaWinForm\obj\Release\KalkulatorSederhanaWinForm.Form1.resources
+D:\dotnet\KalkulatorSederhanaWinForm\obj\Release\KalkulatorSederhanaWinForm.Properties.Resources.resources
+D:\dotnet\KalkulatorSederhanaWinForm\obj\Release\KalkulatorSederhanaWinForm.csproj.GenerateResource.cache
+D:\dotnet\KalkulatorSederhanaWinForm\obj\Release\KalkulatorSederhanaWinForm.csproj.CoreCompileInputs.cache
+D:\dotnet\KalkulatorSederhanaWinForm\obj\Release\KalkulatorSederhanaWinForm.exe
+D:\dotnet\KalkulatorSederhanaWinForm\obj\Release\KalkulatorSederhanaWinForm.pdb
