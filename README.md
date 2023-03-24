@@ -1,8 +1,8 @@
 # Kalkulator Sederhana: Model GUI
-Proyek kalkulator sederhana ini dibuat menggunakan bahasa pemrograman C# dengan model inputan kalimat terbilang. Aplikasi ini dirancang untuk menghitung operasi matematika dasar, seperti penjumlahan, pengurangan, perkalian, dan pembagian. Aplikasi kalkulator sederhana ini sangat berguna untuk menyelesaikan tugas-tugas matematika sehari-hari atau digunakan sebagai bahan belajar untuk mempelajari dasar-dasar pemrograman menggunakan C#. 
+Proyek kalkulator sederhana ini dibuat menggunakan bahasa pemrograman C# dengan model tampilan GUI. Aplikasi ini dirancang untuk menghitung operasi matematika dasar, seperti penjumlahan, pengurangan, perkalian, dan pembagian. Aplikasi kalkulator sederhana ini sangat berguna untuk menyelesaikan tugas-tugas matematika sehari-hari atau digunakan sebagai bahan belajar untuk mempelajari dasar-dasar pemrograman menggunakan C#. 
 
 ## Demo
-none
+(wait)
 
 ## Installasi 
 Untuk menjalankan proyek kalkulator sederhana ini, Anda harus memiliki environment berikut terlebih dahulu:
@@ -17,11 +17,8 @@ Saran dokumentasi:
 ## Usage
 1. Sebelum anda menggunakan kalkulator ini, pastikan anda sudah memenuhi syarat installasi agar program berjalan sesuai alurnya.
 2. Clone repository kedalam komputer anda dan buka di IDE Visual Studio.
-3. Run program atau anda bisa menggunakan shortcut F5, dan anda akan melihat sebuah tampilan dengan output sebagai berikut:
-    
-    
-    
+3. Run program atau anda bisa menggunakan shortcut F5, dan anda akan melihat sebuah tampilan dengan output sebagai berikut:  
+
     Untuk mengisi output tersebut ada beberapa syarat agar program tidak mencapai error. yaitu :
-    - 
  
 4. Jika anda masih bingung, anda bisa melihat live demo setelah judul.
