@@ -19,6 +19,9 @@ Saran dokumentasi:
 2. Clone repository kedalam komputer anda dan buka di IDE Visual Studio.
 3. Run program atau anda bisa menggunakan shortcut F5, dan anda akan melihat sebuah tampilan dengan output sebagai berikut:  
 
+    ![](https://github.com/sulthonaw/kalkulator-sederhana-cSharp-GUI/blob/main/assets/demo-img.png)
+    
     Untuk mengisi output tersebut ada beberapa syarat agar program tidak mencapai error. yaitu :
+    - input operasi tidak boleh double, cth `1+58**`
  
 4. Jika anda masih bingung, anda bisa melihat live demo setelah judul.
